@@ -9,10 +9,12 @@ Frontend Mentor challenge link:
 https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
 
 Built using:
-- HTML
-- CSS
+- HTML5
+- CSS3
+- Flexbox
 
 What I learned:
 - interpreting elements from a preview image into working CSS code
 - scale size in relation to view port and/or device ratio
 - refactoring initial code into a more clean and concise codebase
+- layout decisions using flexbox
